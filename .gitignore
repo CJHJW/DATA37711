@@ -1,0 +1,11 @@
+# Local course materials and original working copies
+HW1/
+*.pdf
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+# Generated results
+homework_*/**/*.png
+homework_*/HW*_results.csv
