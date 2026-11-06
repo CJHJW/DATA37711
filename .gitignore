@@ -1,5 +1,6 @@
 # Local course materials and original working copies
 HW1/
+HW2/
 *.pdf
 .DS_Store
 .ipynb_checkpoints/

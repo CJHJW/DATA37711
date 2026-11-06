@@ -7,3 +7,5 @@ torch>=2.2,<3
 jupyterlab>=4,<5
 nbconvert>=7,<8
 ipykernel>=6,<7
+pyarrow>=14
+category_encoders>=2.6,<3
