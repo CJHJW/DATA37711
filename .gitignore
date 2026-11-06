@@ -2,6 +2,7 @@
 HW1/
 HW2/
 *.pdf
+!homework_2/HW2.pdf
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/

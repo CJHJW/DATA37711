@@ -47,6 +47,8 @@ Lecture PDFs, assignment PDFs, and the original `HW1/` and `HW2/` working direct
 
 ## Homework 2
 
+- [Written report](homework_2/HW2.pdf): answers and experiment results for Homework 2.
+
 - `homework_2/problem1.ipynb`: conditional Gaussian MLP for taxi trip duration, with baseline comparisons and probability evaluation for trips under 45 minutes.
 - `homework_2/problem2.ipynb`: target encoding with linear regression, categorical embeddings, and their combination for retail quantities.
 - `homework_2/problem3.ipynb`: Random Kitchen Sinks with ridge regression and a one-hidden-layer MLP, including hyperparameter sweeps and fitted 3D surfaces.
@@ -61,4 +63,4 @@ cd homework_2
 jupyter lab
 ```
 
-Run each notebook from top to bottom with its working directory set to `homework_2/`. Problem 3 regenerates the prediction CSVs and saves its plots there. Notebook outputs contain the experiment results; the written report is submitted separately.
+Run each notebook from top to bottom with its working directory set to `homework_2/`. Problem 3 regenerates the prediction CSVs and saves its plots there. Notebook outputs contain the experiment results; the written report is included as `homework_2/HW2.pdf`.
